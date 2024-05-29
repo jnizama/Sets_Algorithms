@@ -15,20 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sample 25.cpp">
+    <ClCompile Include="Algoritmia28Mayo2024.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sample26.cpp">
+    <ClCompile Include="Person.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sample23.cpp">
+    <ClCompile Include="Trigonometria.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entidad.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entidad.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BookC.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Sample14.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
