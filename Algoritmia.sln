@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32516.85
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmia", "Algoritmia\Algoritmia.vcxproj", "{BF89B8E9-BE73-4F67-881D-4C17EE255D9B}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmia28Mayo2024", "Algoritmia28Mayo2024\Algoritmia28Mayo2024.vcxproj", "{98277A03-D513-47D5-B3F7-F203C1AF95F1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmia04Junio2024", "Algoritmia04Junio2024\Algoritmia04Junio2024.vcxproj", "{38455F46-CCF6-4FAF-9BE7-C79D9F11C0EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmia11Junio2024", "Algoritmia11Junio2024\Algoritmia11Junio2024.vcxproj", "{D0477589-729D-41DD-9BE9-BAF5BDFD394F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{38455F46-CCF6-4FAF-9BE7-C79D9F11C0EA}.Release|x64.Build.0 = Release|x64
 		{38455F46-CCF6-4FAF-9BE7-C79D9F11C0EA}.Release|x86.ActiveCfg = Release|Win32
 		{38455F46-CCF6-4FAF-9BE7-C79D9F11C0EA}.Release|x86.Build.0 = Release|Win32
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Debug|x64.ActiveCfg = Debug|x64
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Debug|x64.Build.0 = Debug|x64
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Debug|x86.Build.0 = Debug|Win32
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Release|x64.ActiveCfg = Release|x64
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Release|x64.Build.0 = Release|x64
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Release|x86.ActiveCfg = Release|Win32
+		{D0477589-729D-41DD-9BE9-BAF5BDFD394F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
